@@ -1,2 +1,5 @@
-# Deep_Learning_Course
-Computer Vision &amp; Deep Learning
+# Deep Learning Online Course
+
+The website of the course: https://jovian.ml/aakashns/
+
+Computer Vision & Deep Learning
